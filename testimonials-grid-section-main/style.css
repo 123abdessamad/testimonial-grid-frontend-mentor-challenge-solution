@@ -21,21 +21,25 @@ body    {
    color:#ffffff;
    position: relative;
    z-index: 1;
+   padding: 18px;
 }
 
 #testimonial-2 {
     background-color: #48556a;
     color:#ffffff;
+    padding: 18px;
 }
 
 #testimonial-3, #testimonial-5 {
     background-color: #ffffff;
     color: #48556a;
+    padding: 18px;
 }
 
 #testimonial-4 {
     background-color: #19212e;
     color:#ffffff;
+    padding: 18px;
 }
 
 .grid-item {
@@ -43,6 +47,7 @@ body    {
     box-sizing: 5px;
     box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 2);
     font-size: 13px;
+    padding: 18px;
 }
 .grid-item p {
     opacity: 70%;
@@ -104,5 +109,4 @@ body    {
         flex-basis: 35%;
     }
 }
-  
 
